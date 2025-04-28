@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Este es el archivo en la rama main" 
+=======
+"Este es el archivo en la rama-A, con cambios diferentes" 
+>>>>>>> rama-A
