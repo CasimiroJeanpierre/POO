@@ -3,6 +3,8 @@ Repositorio para realizar las actividades dentro del curso de Técnicas de Progr
 " " 
 se aprueba este curso con fe c:
 
+## Parte 4 - Josue
+Demostración del uso de comandos avanzados de Git.
 
 
 GG
